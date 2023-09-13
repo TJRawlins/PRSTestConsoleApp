@@ -1,0 +1,14 @@
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\bin\Debug\net7.0\PRSTestConsoleApp.exe
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\bin\Debug\net7.0\PRSTestConsoleApp.deps.json
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\bin\Debug\net7.0\PRSTestConsoleApp.runtimeconfig.json
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\bin\Debug\net7.0\PRSTestConsoleApp.dll
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\bin\Debug\net7.0\PRSTestConsoleApp.pdb
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.AssemblyInfoInputs.cache
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.AssemblyInfo.cs
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.dll
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\refint\PRSTestConsoleApp.dll
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.pdb
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\PRSTestConsoleApp.genruntimeconfig.cache
+C:\repos\PRSTestConsoleApp\PRSTestConsoleApp\obj\Debug\net7.0\ref\PRSTestConsoleApp.dll
